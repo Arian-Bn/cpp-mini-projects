@@ -1,0 +1,28 @@
+# Compiled binaries
+todo_list
+*.out
+*.exe
+a.out
+
+# Build directories
+build/
+cmake-build-debug/
+dist/
+
+# IDE directories
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+__MACOSX
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.swp
+*.swo
