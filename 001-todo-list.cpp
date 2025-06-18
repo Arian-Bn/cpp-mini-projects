@@ -10,11 +10,11 @@
  * Demonstrates the use of dynamic arrays for managing tasks and their completion status.
  *
  * Features:
- * - Add new tasks
- * - Mark tasks as completed
- * - Delete tasks by index
- * - Dynamic array resizing (doubles capacity when full)
- * - Colored terminal output for task status
+ * Add new tasks
+ * Mark tasks as completed
+ * Delete tasks by index
+ * Dynamic array resizing (doubles capacity when full)
+ * Colored terminal output for task status
  *
  * Memory Management:
  * Uses raw pointers and manual memory handling to demonstrate dynamic arrays in C++.
