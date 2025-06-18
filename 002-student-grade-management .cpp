@@ -12,10 +12,10 @@
  * - Adding students and managing their grades by subject and quarter
  *
  * Features:
- * ✅ Add new students
- * ✅ Add/edit grades per subject and quarter
- * ✅ Display all students and their grades
- * ✅ Proper memory management with manual cleanup
+ * Add new students
+ * Add/edit grades per subject and quarter
+ * Display all students and their grades
+ * Proper memory management with manual cleanup
  *
  * Memory Management:
  * Uses raw pointers and manual memory allocation/deallocation to demonstrate
