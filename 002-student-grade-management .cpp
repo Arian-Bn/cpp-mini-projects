@@ -7,9 +7,9 @@
  *
  * A simple console-based student grade management system in C++.
  * Demonstrates the use of:
- * - Dynamic 2D arrays for storing grades
- * - Structs with constructors and destructors
- * - Adding students and managing their grades by subject and quarter
+ * Dynamic 2D arrays for storing grades
+ * Structs with constructors and destructors
+ * Adding students and managing their grades by subject and quarter
  *
  * Features:
  * Add new students
