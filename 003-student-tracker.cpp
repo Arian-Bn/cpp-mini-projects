@@ -10,11 +10,11 @@
  * and their average scores.
  *
  * Features:
- * ✅ Add students with name and average score
- * ✅ Remove students by index
- * ✅ Display current list of students
- * ✅ Dynamic array resizing when full
- * ✅ Input validation for numeric choices
+ * Add students with name and average score
+ * Remove students by index
+ * Display current list of students
+ * Dynamic array resizing when full
+ * Input validation for numeric choices
  *
  * Memory Management:
  * Uses raw pointers and manual memory handling to demonstrate how
