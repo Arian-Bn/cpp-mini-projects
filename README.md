@@ -1,22 +1,6 @@
-# To-Do List C++ Project
+# C++ Mini Projects
 
-A simple To-Do List in C++ using **dynamic arrays**.
-Supports adding, deleting, viewing and marking tasks as completed.
+This folder contains a collection of mini C++ projects that I write while learning the language.  
+Each project is a simple console application stored in its own separate folder.
 
----
-
-## 📋Main features
-
-✅ Adding tasks
-✅ Marking tasks as completed
-✅ Deleting tasks
-✅ Automatic array expansion when overflowing
-✅ Colored terminal output
-
----
-
-## 💻 Technologies
-
-- Programming language: **C++**
-- Memory management tools: **dynamic arrays**
-- Formatting: **ANSI colors in terminal**
+The goal is to practice coding and build a base of examples for future growth.

@@ -1,6 +1,28 @@
-// Simple To-Do List implementation with dynamic arrays
 #include <iostream>
 #include <limits>
+
+/*
+ * =============================
+ * To-Do List C++ Mini Project
+ * =============================
+ *
+ * A simple console-based To-Do List application written in C++.
+ * Demonstrates the use of dynamic arrays for managing tasks and their completion status.
+ *
+ * Features:
+ * - Add new tasks
+ * - Mark tasks as completed
+ * - Delete tasks by index
+ * - Dynamic array resizing (doubles capacity when full)
+ * - Colored terminal output for task status
+ *
+ * Memory Management:
+ * Uses raw pointers and manual memory handling to demonstrate dynamic arrays in C++.
+ *
+ * Terminal Colors:
+ * Uses ANSI escape codes to display checkmarks in green when a task is marked as done.
+ *
+*/
 
 // Increases array capacity by 2 times when overflow occurs
 void expandArrays(std::string*& tasks, bool*& completed, int& capacity);

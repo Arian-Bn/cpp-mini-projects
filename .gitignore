@@ -1,25 +1,25 @@
-# Compiled executables
-*.out
+# Executables
 *.exe
-a.out
+*.out
+*.app
 
-# Build directories
-build/
-cmake-build-debug/
-dist/
+# Object files
+*.o
+*.obj
 
-# IDE directories
-.vscode/
-.idea/
+# Temporary build files
+*.log
+*.tmp
 
-# OS generated files
-__MACOSX
+# macOS system files
 .DS_Store
+__MACOSX
+
+# Windows system files
 Thumbs.db
 desktop.ini
 
-# Temporary files
-*.log
-*.tmp
+# IDE-specific files
 *.swp
 *.swo
+*.bak
