@@ -1,4 +1,5 @@
 #include <iostream>
+using namespace std;
 
 /*
  * =============================
@@ -20,8 +21,6 @@
  * Uses raw pointers and manual memory handling to demonstrate how
  * dynamic arrays work in C++.
  */
-
-using namespace std;
 
 struct Student {
     string name;
