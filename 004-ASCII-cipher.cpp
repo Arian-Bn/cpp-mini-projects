@@ -1,5 +1,6 @@
 #include <iostream>
 #include <limits>
+using namespace std;
 
 /*
  * =============================
@@ -13,8 +14,6 @@
  * - Input validation
  * - Modular code structure with functions
  */
-
-using namespace std;
 
 // Function declarations
 string getInputText();
