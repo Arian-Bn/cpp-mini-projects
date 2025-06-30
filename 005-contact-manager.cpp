@@ -16,11 +16,11 @@ using namespace std;
  * - Input validation
  *
  * Features:
- * ✅ Add contacts with name and phone number
- * ✅ View all saved contacts
- * ✅ Search by name (case-insensitive)
- * ✅ Delete by index
- * ✅ Dynamic array resizing
+ * Add contacts with name and phone number
+ * View all saved contacts
+ * Search by name (case-insensitive)
+ * Delete by index
+ * Dynamic array resizing
  */
 
 struct Contact {
