@@ -14,11 +14,11 @@
  * - Clean code structure and separation of concerns
  *
  * Features:
- * ✅ Accepts two floating-point numbers from user input
- * ✅ Allows user to choose an operation: Add, Subtract, Multiply, Divide
- * ✅ Uses function pointers to execute the selected operation
- * ✅ Handles division by zero safely
- * ✅ Supports repeating calculations or exiting the program
+ * Accepts two floating-point numbers from user input
+ * Allows user to choose an operation: Add, Subtract, Multiply, Divide
+ * Uses function pointers to execute the selected operation
+ * Handles division by zero safely
+ * Supports repeating calculations or exiting the program
  */
 
 using namespace std;
