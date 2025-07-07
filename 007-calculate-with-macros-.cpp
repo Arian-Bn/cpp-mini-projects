@@ -27,9 +27,9 @@ using namespace std;
  * - Modular code structure
  *
  * Features:
- * ✅ Add, subtract, multiply, divide using macros
- * ✅ Safe input handling
- * ✅ Repeat calculation option
+ * Add, subtract, multiply, divide using macros
+ * Safe input handling
+ * Repeat calculation option
  */
 
 // Function declarations
